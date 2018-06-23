@@ -1,0 +1,42 @@
+
+
+Step-1 : Clone the repo to your local machine 
+
+https://github.com/devopskeshav/devops-dl-WE.git
+
+Step-2 : cd aws-dl-10am
+
+Step-3 : Check the branches info
+
+# git branch
+
+Step-4 : Create your branch i.e. keshav
+
+# git branch keshav
+
+Step-5 : Switech to your branch i.e. keshav
+
+# git checkout keshav
+
+Step-6 : Create a file under your branch i.e. keshav
+
+# touch abc.txt
+
+# git status
+
+Step-7 : Add a file to local repo under your branch i.e. keshav
+
+# git add . or * or <fileName>
+
+# git status
+
+Step-8 : Commit it
+
+# git commit -m "AnyComment"
+
+# git status
+
+Step-9 : Push the local commit to Online Repo 
+
+# git push -u origin keshav
+
