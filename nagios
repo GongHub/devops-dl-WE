@@ -1,0 +1,12 @@
+# yum update
+
+# curl https://assets.nagios.com/downloads/nagiosxi/install.sh | sh
+
+# firewall-cmd --add-service=https
+
+# firewall-cmd --permanent --add-service=https
+
+http://172.22.23.193/nagiosxi/
+
+nagiosadmin
+Q2uXbF3Q#LX^EpM0NdRs
